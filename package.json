@@ -1,0 +1,325 @@
+{
+   "result":[
+      {
+         "arrival":"Пулково (Санкт-Петербург)",
+         "arrivalCode":null,
+         "arrivalDateTime":"2022-03-21 22:05:00+03:00",
+         "departure":"Внуково (Москва)",
+         "departureCode":null,
+         "departureDateTime":"2022-03-21 20:40:00+03:00",
+         "duration":85,
+         "places":[
+            {
+               "count":null,
+               "maxPrice":3512,
+               "minPrice":3512,
+               "name":"Лайт"
+            }
+         ],
+         "segments":[
+            {
+               "airline":"Россия",
+               "arrival":"Пулково (Санкт-Петербург)",
+               "arrivalCode":null,
+               "arrivalDateTime":"Mon, 21 Mar 2022 19:05:00 GMT",
+               "departure":"Внуково (Москва)",
+               "departureCode":null,
+               "departureDateTime":"Mon, 21 Mar 2022 17:40:00 GMT",
+               "duration":85,
+               "plane":"SU-6036"
+            }
+         ],
+         "source":"https://www.tutu.ru/",
+         "url":"https://avia.tutu.ru/offers/?class=Y&passengers=100&r.."
+      },
+      {
+         "arrival":"Пулково (Санкт-Петербург)",
+         "arrivalCode":null,
+         "arrivalDateTime":"2022-03-21 17:10:00+03:00",
+         "departure":"Внуково (Москва)",
+         "departureCode":null,
+         "departureDateTime":"2022-03-21 15:45:00+03:00",
+         "duration":85,
+         "places":[
+            {
+               "count":null,
+               "maxPrice":3512,
+               "minPrice":3512,
+               "name":"Лайт"
+            }
+         ],
+         "segments":[
+            {
+               "airline":"Россия",
+               "arrival":"Пулково (Санкт-Петербург)",
+               "arrivalCode":null,
+               "arrivalDateTime":"Mon, 21 Mar 2022 14:10:00 GMT",
+               "departure":"Внуково (Москва)",
+               "departureCode":null,
+               "departureDateTime":"Mon, 21 Mar 2022 12:45:00 GMT",
+               "duration":85,
+               "plane":"SU-6034"
+            }
+         ],
+         "source":"https://www.tutu.ru/",
+         "url":"https://avia.tutu.ru/offers/?class=Y&passengers=100&r.."
+      },
+      {
+         "arrival":"Пулково (Санкт-Петербург)",
+         "arrivalCode":null,
+         "arrivalDateTime":"2022-03-21 19:25:00+03:00",
+         "departure":"Домодедово (Москва)",
+         "departureCode":null,
+         "departureDateTime":"2022-03-21 17:55:00+03:00",
+         "duration":90,
+         "places":[
+            {
+               "count":null,
+               "maxPrice":3715,
+               "minPrice":3715,
+               "name":"Промо"
+            }
+         ],
+         "segments":[
+            {
+               "airline":"Уральские авиалинии",
+               "arrival":"Пулково (Санкт-Петербург)",
+               "arrivalCode":null,
+               "arrivalDateTime":"Mon, 21 Mar 2022 16:25:00 GMT",
+               "departure":"Домодедово (Москва)",
+               "departureCode":null,
+               "departureDateTime":"Mon, 21 Mar 2022 14:55:00 GMT",
+               "duration":90,
+               "plane":"U6-191"
+            }
+         ],
+         "source":"https://www.tutu.ru/",
+         "url":"https://avia.tutu.ru/offers/?class=Y&passengers=100&r.."
+      },
+      {
+         "arrival":"Пулково (Санкт-Петербург)",
+         "arrivalCode":null,
+         "arrivalDateTime":"2022-03-21 21:55:00+03:00",
+         "departure":"Шереметьево (Москва)",
+         "departureCode":null,
+         "departureDateTime":"2022-03-21 20:25:00+03:00",
+         "duration":90,
+         "places":[
+            {
+               "count":null,
+               "maxPrice":3834,
+               "minPrice":3834,
+               "name":"Лайт"
+            }
+         ],
+         "segments":[
+            {
+               "airline":"Аэрофлот",
+               "arrival":"Пулково (Санкт-Петербург)",
+               "arrivalCode":null,
+               "arrivalDateTime":"Mon, 21 Mar 2022 18:55:00 GMT",
+               "departure":"Шереметьево (Москва)",
+               "departureCode":null,
+               "departureDateTime":"Mon, 21 Mar 2022 17:25:00 GMT",
+               "duration":90,
+               "plane":"SU-30"
+            }
+         ],
+         "source":"https://www.tutu.ru/",
+         "url":"https://avia.tutu.ru/offers/?class=Y&passengers=100&r.."
+      },
+      {
+         "arrival":"Пулково (Санкт-Петербург)",
+         "arrivalCode":null,
+         "arrivalDateTime":"2022-03-21 19:20:00+03:00",
+         "departure":"Домодедово (Москва)",
+         "departureCode":null,
+         "departureDateTime":"2022-03-21 17:40:00+03:00",
+         "duration":100,
+         "places":[
+            {
+               "count":null,
+               "maxPrice":3875,
+               "minPrice":3875,
+               "name":"Эконом Базовый"
+            }
+         ],
+         "segments":[
+            {
+               "airline":"S7 Airlines",
+               "arrival":"Пулково (Санкт-Петербург)",
+               "arrivalCode":null,
+               "arrivalDateTime":"Mon, 21 Mar 2022 16:20:00 GMT",
+               "departure":"Домодедово (Москва)",
+               "departureCode":null,
+               "departureDateTime":"Mon, 21 Mar 2022 14:40:00 GMT",
+               "duration":100,
+               "plane":"S7-1015"
+            }
+         ],
+         "source":"https://www.tutu.ru/",
+         "url":"https://avia.tutu.ru/offers/?class=Y&passengers=100&r.."
+      },
+      {
+         "arrival":"Пулково (Санкт-Петербург)",
+         "arrivalCode":null,
+         "arrivalDateTime":"2022-03-21 Авиабилеты онлайн и расписание самолетов avia.tutu.ru 23:50:00+03:00",
+         "departure":"Внуково (Москва)",
+         "departureCode":null,
+         "departureDateTime":"2022-03-21 22:25:00+03:00",
+         "duration":85,
+         "places":[
+            {
+               "count":null,
+               "maxPrice":4189,
+               "minPrice":4189,
+               "name":"Лайт"
+            }
+         ],
+         "segments":[
+            {
+               "airline":"Россия",
+               "arrival":"Пулково (Санкт-Петербург)",
+               "arrivalCode":null,
+               "arrivalDateTime":"Mon, 21 Mar 2022 20:50:00 GMT",
+               "departure":"Внуково (Москва)",
+               "departureCode":null,
+               "departureDateTime":"Mon, 21 Mar 2022 19:25:00 GMT",
+               "duration":85,
+               "plane":"SU-6024"
+            }
+         ],
+         "source":"https://www.tutu.ru/",
+         "url":"https://avia.tutu.ru/offers/?class=Y&passengers=100&r.."
+      },
+      {
+         "arrival":"Пулково (Санкт-Петербург)",
+         "arrivalCode":null,
+         "arrivalDateTime":"2022-03-21 15:00:00+03:00",
+         "departure":"Домодедово (Москва)",
+         "departureCode":null,
+         "departureDateTime":"2022-03-21 13:30:00+03:00",
+         "duration":90,
+         "places":[
+            {
+               "count":null,
+               "maxPrice":4365,
+               "minPrice":4365,
+               "name":"Промо"
+            }
+         ],
+         "segments":[
+            {
+               "airline":"Уральские авиалинии",
+               "arrival":"Пулково (Санкт-Петербург)",
+               "arrivalCode":null,
+               "arrivalDateTime":"Mon, 21 Mar 2022 12:00:00 GMT",
+               "departure":"Домодедово (Москва)",
+               "departureCode":null,
+               "departureDateTime":"Mon, 21 Mar 2022 10:30:00 GMT",
+               "duration":90,
+               "plane":"U6-59"
+            }
+         ],
+         "source":"https://www.tutu.ru/",
+         "url":"https://avia.tutu.ru/offers/?class=Y&passengers=100&r.."
+      },
+      {
+         "arrival":"Пулково (Санкт-Петербург)",
+         "arrivalCode":null,
+         "arrivalDateTime":"2022-03-21 20:10:00+03:00",
+         "departure":"Шереметьево (Москва)",
+         "departureCode":null,
+         "departureDateTime":"2022-03-21 18:40:00+03:00",
+         "duration":90,
+         "places":[
+            {
+               "count":null,
+               "maxPrice":4665,
+               "minPrice":4665,
+               "name":"Лайт"
+            }
+         ],
+         "segments":[
+            {
+               "airline":"Аэрофлот",
+               "arrival":"Пулково (Санкт-Петербург)",
+               "arrivalCode":null,
+               "arrivalDateTime":"Mon, 21 Mar 2022 17:10:00 GMT",
+               "departure":"Шереметьево (Москва)",
+               "departureCode":null,
+               "departureDateTime":"Mon, 21 Mar 2022 15:40:00 GMT",
+               "duration":90,
+               "plane":"SU-26"
+            }
+         ],
+         "source":"https://www.tutu.ru/",
+         "url":"https://avia.tutu.ru/offers/?class=Y&passengers=100&r.."
+      },
+      {
+         "arrival":"Пулково (Санкт-Петербург)",
+         "arrivalCode":null,
+         "arrivalDateTime":"2022-03-21 18:10:00+03:00",
+         "departure":"Шереметьево (Москва)",
+         "departureCode":null,
+         "departureDateTime":"2022-03-21 16:40:00+03:00",
+         "duration":90,
+         "places":[
+            {
+               "count":null,
+               "maxPrice":4665,
+               "minPrice":4665,
+               "name":"Лайт"
+            }
+         ],
+         "segments":[
+            {
+               "airline":"Аэрофлот",
+               "arrival":"Пулково (Санкт-Петербург)",
+               "arrivalCode":null,
+               "arrivalDateTime":"Mon, 21 Mar 2022 15:10:00 GMT",
+               "departure":"Шереметьево (Москва)",
+               "departureCode":null,
+               "departureDateTime":"Mon, 21 Mar 2022 13:40:00 GMT",
+               "duration":90,
+               "plane":"SU-44"
+            }
+         ],
+         "source":"https://www.tutu.ru/",
+         "url":"https://avia.tutu.ru/offers/?class=Y&passengers=100&r.."
+      },
+      {
+         "arrival":"Пулково (Санкт-Петербург)",
+         "arrivalCode":null,
+         "arrivalDateTime":"2022-03-22 00:25:00+03:00",
+         "departure":"Шереметьево (Москва)",
+         "departureCode":null,
+         "departureDateTime":"2022-03-21 22:50:00+03:00",
+         "duration":95,
+         "places":[
+            {
+               "count":null,
+               "maxPrice":5072,
+               "minPrice":5072,
+               "name":"Лайт"
+            }
+         ],
+         "segments":[
+            {
+               "airline":"Аэрофлот",
+               "arrival":"Пулково (Санкт-Петербург)",
+               "arrivalCode":null,
+               "arrivalDateTime":"Mon, 21 Mar 2022 21:25:00 GMT",
+               "departure":"Шереметьево (Москва)",
+               "departureCode":null,
+               "departureDateTime":"Mon, 21 Mar 2022 19:50:00 GMT",
+               "duration":95,
+               "plane":"SU-34"
+            }
+         ],
+         "source":"https://www.tutu.ru/",
+         "url":"https://avia.tutu.ru/offers/?class=Y&passengers=100&r.."
+      }
+   ],
+   "status":"OK"
+}

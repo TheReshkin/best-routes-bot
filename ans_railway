@@ -1,0 +1,483 @@
+
+{
+    "result": [
+        {
+            "arrival": "Санкт-Петербург-Финлян",
+            "arrivalDatetime": "Thu, 14 Apr 2022 01:10:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 16:47:00 GMT",
+            "hasElectronicRegistration": false,
+            "places": [
+                {
+                    "count": 1,
+                    "maxPrice": 2412.7,
+                    "minPrice": 2412.7,
+                    "name": "Купе"
+                },
+                {
+                    "count": 24,
+                    "maxPrice": 1567.3,
+                    "minPrice": 1567.3,
+                    "name": "Купе"
+                },
+                {
+                    "count": 11,
+                    "maxPrice": 1567.3,
+                    "minPrice": 1567.3,
+                    "name": "Купе"
+                },
+                {
+                    "count": 2,
+                    "maxPrice": 1773.0,
+                    "minPrice": 1596.0,
+                    "name": "Купе"
+                },
+                {
+                    "count": 5,
+                    "maxPrice": 1015.9,
+                    "minPrice": 1015.9,
+                    "name": "Плац"
+                },
+                {
+                    "count": 6,
+                    "maxPrice": 998.9,
+                    "minPrice": 998.9,
+                    "name": "Плац"
+                },
+                {
+                    "count": 1,
+                    "maxPrice": 1015.9,
+                    "minPrice": 1015.9,
+                    "name": "Плац"
+                }
+            ],
+            "trainNumber": "160В",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Wed, 13 Apr 2022 21:40:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 17:38:00 GMT",
+            "hasElectronicRegistration": true,
+            "places": [
+                {
+                    "count": 1,
+                    "maxPrice": 6542.4,
+                    "minPrice": 6542.4,
+                    "name": "Сид"
+                }
+            ],
+            "trainNumber": "776А",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Thu, 14 Apr 2022 01:05:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 21:00:00 GMT",
+            "hasElectronicRegistration": true,
+            "places": [
+                {
+                    "count": 4,
+                    "maxPrice": 75464.0,
+                    "minPrice": 58259.2,
+                    "name": "Сид"
+                }
+            ],
+            "trainNumber": "786А",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург Ладож.",
+            "arrivalDatetime": "Thu, 14 Apr 2022 06:40:00 GMT",
+            "departure": "Москва Вк Восточный",
+            "departureDatetime": "Wed, 13 Apr 2022 21:36:00 GMT",
+            "hasElectronicRegistration": true,
+            "places": [
+                {
+                    "count": 14,
+                    "maxPrice": 2704.0,
+                    "minPrice": 2221.4,
+                    "name": "Купе"
+                },
+                {
+                    "count": 2,
+                    "maxPrice": 2328.3,
+                    "minPrice": 2328.3,
+                    "name": "Купе"
+                },
+                {
+                    "count": 18,
+                    "maxPrice": 2836.0,
+                    "minPrice": 2328.3,
+                    "name": "Купе"
+                },
+                {
+                    "count": 1,
+                    "maxPrice": 2221.4,
+                    "minPrice": 2221.4,
+                    "name": "Купе"
+                },
+                {
+                    "count": 12,
+                    "maxPrice": 2704.0,
+                    "minPrice": 2221.4,
+                    "name": "Купе"
+                },
+                {
+                    "count": 4,
+                    "maxPrice": 2782.5,
+                    "minPrice": 2258.8,
+                    "name": "Купе"
+                },
+                {
+                    "count": 6,
+                    "maxPrice": 1475.0,
+                    "minPrice": 1475.0,
+                    "name": "Плац"
+                },
+                {
+                    "count": 5,
+                    "maxPrice": 1448.7,
+                    "minPrice": 1448.7,
+                    "name": "Плац"
+                },
+                {
+                    "count": 68,
+                    "maxPrice": 1475.0,
+                    "minPrice": 1475.0,
+                    "name": "Плац"
+                },
+                {
+                    "count": 21,
+                    "maxPrice": 800.5,
+                    "minPrice": 800.5,
+                    "name": "Сид"
+                },
+                {
+                    "count": 21,
+                    "maxPrice": 800.5,
+                    "minPrice": 800.5,
+                    "name": "Сид"
+                }
+            ],
+            "trainNumber": "120В",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Thu, 14 Apr 2022 05:24:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 21:55:00 GMT",
+            "hasElectronicRegistration": true,
+            "places": [
+                {
+                    "count": 25,
+                    "maxPrice": 2590.4,
+                    "minPrice": 2590.4,
+                    "name": "Купе"
+                },
+                {
+                    "count": 20,
+                    "maxPrice": 3197.0,
+                    "minPrice": 2590.4,
+                    "name": "Купе"
+                },
+                {
+                    "count": 46,
+                    "maxPrice": 3197.0,
+                    "minPrice": 2590.4,
+                    "name": "Купе"
+                },
+                {
+                    "count": 25,
+                    "maxPrice": 3197.0,
+                    "minPrice": 2590.4,
+                    "name": "Купе"
+                },
+                {
+                    "count": 13,
+                    "maxPrice": 1411.0,
+                    "minPrice": 1411.0,
+                    "name": "Плац"
+                },
+                {
+                    "count": 162,
+                    "maxPrice": 1411.0,
+                    "minPrice": 1411.0,
+                    "name": "Плац"
+                }
+            ],
+            "trainNumber": "236А",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Thu, 14 Apr 2022 07:42:00 GMT",
+            "departure": "Москва Вк Восточный",
+            "departureDatetime": "Wed, 13 Apr 2022 22:00:00 GMT",
+            "hasElectronicRegistration": true,
+            "places": [
+                {
+                    "count": 1,
+                    "maxPrice": 6674.0,
+                    "minPrice": 6674.0,
+                    "name": "Св"
+                },
+                {
+                    "count": 12,
+                    "maxPrice": 3848.0,
+                    "minPrice": 2715.8,
+                    "name": "Купе"
+                },
+                {
+                    "count": 5,
+                    "maxPrice": 3702.0,
+                    "minPrice": 2569.8,
+                    "name": "Купе"
+                },
+                {
+                    "count": 3,
+                    "maxPrice": 2569.8,
+                    "minPrice": 2569.8,
+                    "name": "Купе"
+                },
+                {
+                    "count": 9,
+                    "maxPrice": 3702.0,
+                    "minPrice": 2569.8,
+                    "name": "Купе"
+                },
+                {
+                    "count": 14,
+                    "maxPrice": 1475.0,
+                    "minPrice": 1475.0,
+                    "name": "Плац"
+                },
+                {
+                    "count": 24,
+                    "maxPrice": 1475.0,
+                    "minPrice": 1475.0,
+                    "name": "Плац"
+                },
+                {
+                    "count": 36,
+                    "maxPrice": 1475.0,
+                    "minPrice": 1475.0,
+                    "name": "Плац"
+                }
+            ],
+            "trainNumber": "146У",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Thu, 14 Apr 2022 06:40:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 22:30:00 GMT",
+            "hasElectronicRegistration": true,
+            "places": [
+                {
+                    "count": 1,
+                    "maxPrice": 5443.0,
+                    "minPrice": 5443.0,
+                    "name": "Св"
+                },
+                {
+                    "count": 1,
+                    "maxPrice": 1411.0,
+                    "minPrice": 1411.0,
+                    "name": "Плац"
+                }
+            ],
+            "trainNumber": "028А",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Thu, 14 Apr 2022 06:47:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 22:50:00 GMT",
+            "hasElectronicRegistration": true,
+            "places": [
+                {
+                    "count": 1,
+                    "maxPrice": 4035.0,
+                    "minPrice": 4035.0,
+                    "name": "Купе"
+                }
+            ],
+            "trainNumber": "006А",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Thu, 14 Apr 2022 10:09:00 GMT",
+            "departure": "Москва Вк Восточный",
+            "departureDatetime": "Wed, 13 Apr 2022 23:24:00 GMT",
+            "hasElectronicRegistration": true,
+            "places": [
+                {
+                    "count": 4,
+                    "maxPrice": 2470.2,
+                    "minPrice": 2470.2,
+                    "name": "Купе"
+                },
+                {
+                    "count": 32,
+                    "maxPrice": 3712.0,
+                    "minPrice": 2470.2,
+                    "name": "Купе"
+                },
+                {
+                    "count": 1,
+                    "maxPrice": 2470.2,
+                    "minPrice": 2470.2,
+                    "name": "Купе"
+                },
+                {
+                    "count": 10,
+                    "maxPrice": 3712.0,
+                    "minPrice": 2470.2,
+                    "name": "Купе"
+                },
+                {
+                    "count": 1,
+                    "maxPrice": 1475.0,
+                    "minPrice": 1475.0,
+                    "name": "Плац"
+                },
+                {
+                    "count": 26,
+                    "maxPrice": 1475.0,
+                    "minPrice": 1475.0,
+                    "name": "Плац"
+                }
+            ],
+            "trainNumber": "049Ч",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Thu, 14 Apr 2022 08:30:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 23:30:00 GMT",
+            "hasElectronicRegistration": true,
+            "places": [
+                {
+                    "count": 4,
+                    "maxPrice": 8261.3,
+                    "minPrice": 8261.3,
+                    "name": "Св"
+                },
+                {
+                    "count": 4,
+                    "maxPrice": 8261.3,
+                    "minPrice": 8261.3,
+                    "name": "Св"
+                },
+                {
+                    "count": 8,
+                    "maxPrice": 4365.2,
+                    "minPrice": 4365.2,
+                    "name": "Купе"
+                },
+                {
+                    "count": 9,
+                    "maxPrice": 4365.2,
+                    "minPrice": 4365.2,
+                    "name": "Купе"
+                },
+                {
+                    "count": 2,
+                    "maxPrice": 4365.2,
+                    "minPrice": 4365.2,
+                    "name": "Купе"
+                }
+            ],
+            "trainNumber": "004А",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Thu, 14 Apr 2022 08:36:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 23:40:00 GMT",
+            "hasElectronicRegistration": true,
+            "places": [
+                {
+                    "count": 2,
+                    "maxPrice": 9532.7,
+                    "minPrice": 9532.7,
+                    "name": "Св"
+                },
+                {
+                    "count": 4,
+                    "maxPrice": 53870.6,
+                    "minPrice": 48677.1,
+                    "name": "Люкс"
+                },
+                {
+                    "count": 1,
+                    "maxPrice": 46356.4,
+                    "minPrice": 46356.4,
+                    "name": "Люкс"
+                }
+            ],
+            "trainNumber": "054Ч",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Thu, 14 Apr 2022 07:55:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 23:55:00 GMT",
+            "hasElectronicRegistration": false,
+            "places": [],
+            "trainNumber": "002А",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Wed, 13 Apr 2022 21:58:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 17:48:00 GMT",
+            "hasElectronicRegistration": null,
+            "places": [],
+            "trainNumber": "778А",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Wed, 13 Apr 2022 23:45:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 19:35:00 GMT",
+            "hasElectronicRegistration": null,
+            "places": [],
+            "trainNumber": "780А",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Thu, 14 Apr 2022 00:02:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 19:52:00 GMT",
+            "hasElectronicRegistration": null,
+            "places": [],
+            "trainNumber": "782А",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        },
+        {
+            "arrival": "Санкт-Петербург-Главн.",
+            "arrivalDatetime": "Thu, 14 Apr 2022 00:50:00 GMT",
+            "departure": "Москва Октябрьская",
+            "departureDatetime": "Wed, 13 Apr 2022 20:50:00 GMT",
+            "hasElectronicRegistration": null,
+            "places": [],
+            "trainNumber": "784А",
+            "url": "https://ticket.rzd.ru/searchresults/v/1/5a323c29340c7441a0a556bb/5a3244bc340c7441a0a556ca/2022-04-13"
+        }
+    ],
+    "status": "OK"
+}
